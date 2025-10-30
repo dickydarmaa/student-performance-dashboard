@@ -31,7 +31,7 @@ This project features an interactive dashboard that visualizes key factors affec
 
 ## How to Access
 View the live dashboard at:  
-[https://yourusername.github.io/student-performance-dashboard/](https://yourusername.github.io/student-performance-dashboard/)
+[https://dickydarmaa.github.io/student-performance-dashboard/](https://dickydarmaa.github.io/student-performance-dashboard/)
 
 ## Project Date
 Thursday, 30 October 2025
